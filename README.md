@@ -1,1 +1,1 @@
-# React 공부자료 git setting
+# React 공부자료 git setting1
